@@ -1,5 +1,3 @@
 # pfm-vond.github.io
-the web site associated with pierre VONDERSCHER
+the web site associated with the lodging in jussarupt france.
 
-# left to do:
-- translate experiences in english.
